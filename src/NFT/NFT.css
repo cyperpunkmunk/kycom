@@ -1,6 +1,19 @@
-.nftBody{
+.nftBody {
     height:100vh ;
     background-color: blue;
-   
+
+    
+}
+
+
+.sec1 {
+    background-color: brown;
+    
+    display: flex;
+
+    height: 100vh;
+    width: 100%;
+  
+
 }
 
