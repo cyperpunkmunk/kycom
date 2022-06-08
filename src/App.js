@@ -3,7 +3,7 @@ import './App.css';
 import React from 'react';
 import SlideRoutes from 'react-slide-routes';
 import { Route, NavLink } from 'react-router-dom';
-import Home from "./Home/home.js";
+import Home from "./Home/Home.js";
 import NftPage from './NFT/NFT.js';
 import Wav from './Wav/Wav.js';
 import Etc from './Etc/etc';

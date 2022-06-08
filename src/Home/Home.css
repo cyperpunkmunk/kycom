@@ -50,11 +50,14 @@ body{
 
 }
 
-.col-3-of-4{
-  width: calc((100% - 1.5rem) / 1);
+
+.sectionOneTop {
   background-color: aqua;
 }
 
+.sectionTwoTop {
+ background-color: aquamarine;
+}
 .link-container {
   text-align: center;
   width: 100%;
@@ -154,12 +157,12 @@ body{
   .section2 {
     background-color: chartreuse;
   }
-  .col-3-of-4{
+  .col-8{
     width: 100%;
     background-color: aqua;
   }
 
-  .col-1-of-4{
+  .col-4{
     display: none;
   }
 
