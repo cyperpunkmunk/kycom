@@ -17,12 +17,12 @@ export default function Home() {
         <section className = 'section1'>
           <div className = "row">
             
-            <div className = "col-3-of-4">
+            <div className = "col-8 sectionOneTop">
               col 3 of 4
             </div>
             
-            <div className = "col-1-of-4">
-              <div className = "link-container">
+            <div className = " row col-4 align-items-center  sectionTwoTop"> 
+              <div className = "link-container ">
                 <ul className ="links">
                   <li>
                     <a href="#"> nft</a>
