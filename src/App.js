@@ -39,9 +39,9 @@ const App  = () => {
     
 
       <SlideRoutes>
+        <Route path="wav" element={<Wav />} />
         <Route path="/" element={<Home />} />
         <Route path="nftPage" element={<NftPage />} />
-        <Route path="wav" element={<Wav />} />
         <Route path="etc" element={<Etc />} />
       </SlideRoutes>
     
