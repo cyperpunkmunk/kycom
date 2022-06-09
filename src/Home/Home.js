@@ -55,25 +55,15 @@ export default function Home() {
             
             <div className = "row col-4 align-items-center  sectionTwoTop"> 
               <div className = "link-container ">
-                <ul className ="links">
-                  <li>
-                    {/* link to the right */}
-                    <a href="#"> nft</a>
-                  </li>
-                  <li>
-                    {/* link to the left */}
-                    <a href="#"> .wav</a>
-                  </li>
-                  <li>
-                    {/* link to whats on the bottom of th home page */}
-                    <a href ="#"> etc.</a>
-                  </li>
-                </ul>
+                <p className ="links">
+                  "this is a description"
+                </p>
               </div>
             </div>
   
           </div>
         </section>
+        
   
   
   
