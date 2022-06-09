@@ -6,6 +6,9 @@ export default function NftPage() {
 
     return (
       <div className='body'>
+        <div>
+           
+        </div>
   
       </div>
     );
