@@ -23,8 +23,8 @@ const App  = () => {
   return(
     <>
 
-      {/** mobile nav */}
-          
+      {/*
+      {/* mobile nav
       <input className="menu-btn" id="active" type="checkbox"  ></input>
           
           
@@ -37,7 +37,7 @@ const App  = () => {
           </ul>
         </div>
     
-
+      */}
       <SlideRoutes>
         <Route path="wav" element={<Wav />} />
         <Route path="/" element={<Home />} />
