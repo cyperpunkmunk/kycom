@@ -47,7 +47,7 @@ export default function App() {
             
           <div className="wrapper" id ="popupMenu">
             
-            <div className = "subPage" id ="page0">
+            <div className = "subPageIntro" id ="">
               
              
                 
@@ -72,7 +72,7 @@ export default function App() {
          
             </div>
 
-            <div className = "subPage" id ="page1">
+            <div className = "subPage" id ="subPageNft">
               
               <div className='nftContainer'>
                 <div className='container2'>
@@ -92,13 +92,15 @@ export default function App() {
                         "orem ielidftas,df asdfghd cupborum."
                       </p>
                     </div>
-                  
                   </div>  
+
+                  
+                
                 </div>
               </div>
             </div>
 
-            <div className = "subPage" id ="page2">
+            <div className = "subPage" id =" subPageNft page2">
               
               <div className='nftContainer'>
                 <div className='container2'>

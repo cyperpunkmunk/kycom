@@ -116,26 +116,37 @@ body,
   overflow-y: auto;
 }
 
-#page1{
+/* subpage intro ( the first div on the sub page ) */
 
-}
-
-#page2{
-
+.subPageIntro {
+  height: 100vh;
+  margin: 0px auto;
+  margin-bottom: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 /* sub page is the whole section for that nft*/
+
 .subPage{
   height: 100vh;
   margin: 0px auto;
-  padding: 0px;
+ 
   display: flex;
   justify-content: center;
   align-items: center;
   
   
+}
+
+
+#subPageNft {
+  height: 9vh;
   
 }
+
 
 /* first page on the sub menu */
 
@@ -158,7 +169,7 @@ body,
   flex-direction: column;
   justify-content: center;
   padding: 3vh;
-
+ 
 
 
 }  
@@ -172,8 +183,7 @@ body,
 .leftContainer{
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
-
+ 
 }
 
 .nftPic{
